@@ -1,8 +1,8 @@
-## Tudo bom? 👋
+## Olá! 👋
 
 - 👨‍💻 Formado em Engenharia Química e Desenvolvedor Front-End
 - 🌱 Atualmente aprendendo ReactJs
-<div style= text-decoration: none; color: white; >- 📫 Você me encontra no email: <strong>jcqaraujo@gmail.com</strong></div>
+- 📫 Você me encontra no email: jcqaraujo@gmail.com
 
 <div align="center">
   <a href="https://github.com/julioqueirozdev">
