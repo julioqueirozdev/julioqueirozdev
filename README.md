@@ -2,7 +2,7 @@
 
 - 👨‍💻 Formado em Engenharia Química e Desenvolvedor Front-End
 - 🌱 Atualmente aprendendo ReactJs
-- 📫 Você me encontra no email: <strong style='text-decoration: none' color='white'>jcqaraujo@gmail.com</strong>
+<div style= text-decoration: none; color: white; >- 📫 Você me encontra no email: <strong>jcqaraujo@gmail.com</strong></div>
 
 <div align="center">
   <a href="https://github.com/julioqueirozdev">
