@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-- 👨‍💻 Formado em Engenharia Química e Desenvolvedor Front-End
+- 👨‍💻 Desenvolvedor Front-End
 - 🌱 Atualmente aprendendo ReactJs
 - 📫 Você me encontra no email: jcqaraujo@gmail.com
 
